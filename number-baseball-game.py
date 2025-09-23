@@ -3,10 +3,10 @@ def number_baseball_game():
     import random
     # 난이도 선택 화면
     print('''--------------------------
-    Level
-    1. 쉬움
-    2. 중간
-    3. 어려움
+Level
+1. 쉬움
+2. 중간
+3. 어려움
 --------------------------''')
     # 난이도 선택 반복문
     while True :
